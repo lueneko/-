@@ -1,0 +1,1 @@
+printA("second trash")
